@@ -1,0 +1,12 @@
+h1{
+    color: red;
+}
+a {
+    color: hotpink;
+  }
+  li{
+    list-style-position: inside;
+  }
+ ol{
+    list-style-position: inside;
+ }
